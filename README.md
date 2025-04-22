@@ -1,0 +1,1 @@
+I designed and developed Food Lover, a modern, responsive restaurant website that allows users to browse the menu, book a table, and communicate with the restaurant seamlessly. This website was built using HTML, CSS, design frameworks, and JavaScript.
